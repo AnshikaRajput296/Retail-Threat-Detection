@@ -1,7 +1,8 @@
 # 🔐 Retail Insider Threat Detection 🛒🧠  
-**Scalable Risk Analytics Dashboard | Unsupervised Learning + DuckDB + Streamlit**
+**Scalable Risk Analytics Dashboard **
 
-Welcome to the **Retail Insider Threat Detection System**, a powerful and interactive cybersecurity analytics dashboard designed to identify potential insider threats in large-scale retail environments. Using **unsupervised learning techniques**, high-performance **DuckDB querying**, and an intuitive **Streamlit UI**, this project enables real-time anomaly detection from millions of activity logs.
+Welcome to the **Retail Insider Threat Detection System**,  interactive dashboard for detecting and analyzing potential insider threats in a retail organization. This project leverages real-time user behavior data, anomaly detection, and risk scoring to identify malicious activities using a visual, enterprise-style interface built with Plotly  / Streamlit.
+
 
 ---
 
@@ -49,7 +50,7 @@ This project was developed to provide:
 | Dashboard         | Streamlit                   |
 | Database Engine   | DuckDB                      |
 | ML Engine         | Scikit-learn, NumPy, pandas |
-| Visualization     | Plotly, Altair              |
+| Visualization     | Plotly, matplotlib          |
 | Exporting         | OpenPyXL, Pandas Excel      |
 
 ---

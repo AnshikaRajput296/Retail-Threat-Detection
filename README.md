@@ -54,3 +54,18 @@ This project was developed to provide:
 | Exporting         | OpenPyXL, Pandas Excel      |
 
 ---
+
+📂 Dataset Downloads
+The following datasets are used in the Retail Insider Threat Detection System. You can download them individually or visit the release page to access all files.
+
+📦 Individual Files
+📥 logon.csv
+
+📥 user_risk_analysis.csv
+
+📥 device.csv
+
+📥 http.csv
+
+🔗 Full Release Page
+👉 GitHub Release – v1.0-data

@@ -55,17 +55,16 @@ This project was developed to provide:
 
 ---
 
-📂 Dataset Downloads
-The following datasets are used in the Retail Insider Threat Detection System. You can download them individually or visit the release page to access all files.
+## 📂 Dataset Downloads
 
-📦 Individual Files
-📥 logon.csv
+The following datasets are used in the **Retail Insider Threat Detection System**. You can download them individually or visit the release page to access all files.
 
-📥 user_risk_analysis.csv
+### 📦 Individual Files
+- [📥 `logon.csv`](https://github.com/AnshikaRajput296/Retail-Threat-Detection/releases/download/v1.0-data/logon.csv)  
+- [📥 `user_risk_analysis.csv`](https://github.com/AnshikaRajput296/Retail-Threat-Detection/releases/download/v1.0-data/user_risk_analysis.csv)  
+- [📥 `device.csv`](https://github.com/AnshikaRajput296/Retail-Threat-Detection/releases/download/v1.0-data/device.csv)  
+- [📥 `http.csv`](https://github.com/AnshikaRajput296/Retail-Threat-Detection/releases/download/v1.0-data/http.csv)
 
-📥 device.csv
+### 🔗 Full Release Page
+👉 [**GitHub Release – v1.0-data**](https://github.com/AnshikaRajput296/Retail-Threat-Detection/releases/tag/v1.0-data)
 
-📥 http.csv
-
-🔗 Full Release Page
-👉 GitHub Release – v1.0-data

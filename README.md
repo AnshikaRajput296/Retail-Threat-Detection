@@ -1,5 +1,5 @@
 # 🔐 Retail Insider Threat Detection 🛒🧠  
-**Scalable Risk Analytics Dashboard **
+**Scalable Risk Analytics Dashboard**
 
 Welcome to the **Retail Insider Threat Detection System**,  interactive dashboard for detecting and analyzing potential insider threats in a retail organization. This project leverages real-time user behavior data, anomaly detection, and risk scoring to identify malicious activities using a visual, enterprise-style interface built with Plotly  / Streamlit.
 
